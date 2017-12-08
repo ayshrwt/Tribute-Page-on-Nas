@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Josefin+Sans|Pacifico|Architects+Daughter');
+
+body{
+  margin-top: 50px;
+}
+h1{
+  font-family: 'Indie Flower', cursive;
+}
+h2{
+  font-family: 'Indie Flower', cursive;
+}
+h3{
+  font-family: 'Josefin Sans', sans-serif;
+}
+p{
+  font-size: 20px;
+font-family: 'Architects Daughter', cursive;
+}
+
+li{
+  font-family: 'Architects Daughter', cursive;
+  font-size: 20px;
+}
+.card {
+	padding: 25px;
+	border: 0.5px solid #fff;
+	border-radius: 3px;
+	box-shadow: 1px 1px 10px 3px #d7ecdb;
+	transition: 0.5s;
+	background-color: #FFF;
+	position: relative;
+	font-size: 1.3em;
+}
+l1{
+  display: inline-block;
+}
